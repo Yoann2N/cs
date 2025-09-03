@@ -14,15 +14,17 @@ else ;
     Console.WriteLine("Pierre et Paul ont le même âge");
 }
 
+bool estplusjeune = pierre < paul;
 switch (pierre)
 {
-    case < paul:
+    case true:
+
         Console.WriteLine("Pierre est plus jeune que Paul");
         break;
-    case > paul:
+    case false:
         Console.WriteLine("Pierre est plus âgé que Paul");
         break;
-    default: 
-        Console.Writeline("Pierre et Paul ont le même âge");
-        break;
+    default:
+        Console.WriteLine("Pierre et Paul ont le même âge");
+        break;  
 }
