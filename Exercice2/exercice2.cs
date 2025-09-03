@@ -15,7 +15,7 @@ else ;
 }
 
 bool estplusjeune = pierre < paul;
-switch (pierre)
+switch (pierre<paul)
 {
     case true:
 
