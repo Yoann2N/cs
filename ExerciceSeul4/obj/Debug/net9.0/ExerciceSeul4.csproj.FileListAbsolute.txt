@@ -1,0 +1,15 @@
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceSeul4\obj\Debug\net9.0\ExerciceSeul4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceSeul4\obj\Debug\net9.0\ExerciceSeul4.AssemblyInfoInputs.cache
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceSeul4\obj\Debug\net9.0\ExerciceSeul4.AssemblyInfo.cs
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceSeul4\obj\Debug\net9.0\ExerciceSeul4.csproj.CoreCompileInputs.cache
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceSeul4\obj\Debug\net9.0\ExerciceSeul4.sourcelink.json
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceSeul4\bin\Debug\net9.0\ExerciceSeul4.exe
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceSeul4\bin\Debug\net9.0\ExerciceSeul4.deps.json
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceSeul4\bin\Debug\net9.0\ExerciceSeul4.runtimeconfig.json
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceSeul4\bin\Debug\net9.0\ExerciceSeul4.dll
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceSeul4\bin\Debug\net9.0\ExerciceSeul4.pdb
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceSeul4\obj\Debug\net9.0\ExerciceSeul4.dll
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceSeul4\obj\Debug\net9.0\refint\ExerciceSeul4.dll
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceSeul4\obj\Debug\net9.0\ExerciceSeul4.pdb
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceSeul4\obj\Debug\net9.0\ExerciceSeul4.genruntimeconfig.cache
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceSeul4\obj\Debug\net9.0\ref\ExerciceSeul4.dll
