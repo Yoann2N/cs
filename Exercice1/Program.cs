@@ -2,8 +2,8 @@
 Console.WriteLine("Bonjour " + nom);
 
 
-int prix = 100;
+double prix = 99.99;
 int quantité = 20;
 
-int total = prix * quantité;
+double total = prix * quantité;
 Console.WriteLine(total);
