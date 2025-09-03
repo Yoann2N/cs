@@ -3,7 +3,7 @@ Console.WriteLine("Bonjour " + nom);
 
 
 int prix = 100;
-int a = 20;
+int quantité = 20;
 
-int total = prix + a;
+int total = prix * quantité;
 Console.WriteLine(total);
