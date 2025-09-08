@@ -3,7 +3,7 @@ int note = Convert.ToInt32(Console.ReadLine()!);
 
 switch (note)
 {
-    case int n when(note <= 9):
+    case int when(note <= 9):
         Console.WriteLine("Insuffisant");
         break;
     case int when(note >= 10 && note <= 13):

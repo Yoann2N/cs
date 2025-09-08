@@ -1,0 +1,15 @@
+C:\Users\yoann\Desktop\DevBTS\CS\Boucles\Exercices\ExerciceBoucle1\obj\Debug\net9.0\ExerciceBoucle1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoann\Desktop\DevBTS\CS\Boucles\Exercices\ExerciceBoucle1\obj\Debug\net9.0\ExerciceBoucle1.AssemblyInfoInputs.cache
+C:\Users\yoann\Desktop\DevBTS\CS\Boucles\Exercices\ExerciceBoucle1\obj\Debug\net9.0\ExerciceBoucle1.AssemblyInfo.cs
+C:\Users\yoann\Desktop\DevBTS\CS\Boucles\Exercices\ExerciceBoucle1\obj\Debug\net9.0\ExerciceBoucle1.csproj.CoreCompileInputs.cache
+C:\Users\yoann\Desktop\DevBTS\CS\Boucles\Exercices\ExerciceBoucle1\obj\Debug\net9.0\ExerciceBoucle1.sourcelink.json
+C:\Users\yoann\Desktop\DevBTS\CS\Boucles\Exercices\ExerciceBoucle1\bin\Debug\net9.0\ExerciceBoucle1.exe
+C:\Users\yoann\Desktop\DevBTS\CS\Boucles\Exercices\ExerciceBoucle1\bin\Debug\net9.0\ExerciceBoucle1.deps.json
+C:\Users\yoann\Desktop\DevBTS\CS\Boucles\Exercices\ExerciceBoucle1\bin\Debug\net9.0\ExerciceBoucle1.runtimeconfig.json
+C:\Users\yoann\Desktop\DevBTS\CS\Boucles\Exercices\ExerciceBoucle1\bin\Debug\net9.0\ExerciceBoucle1.dll
+C:\Users\yoann\Desktop\DevBTS\CS\Boucles\Exercices\ExerciceBoucle1\bin\Debug\net9.0\ExerciceBoucle1.pdb
+C:\Users\yoann\Desktop\DevBTS\CS\Boucles\Exercices\ExerciceBoucle1\obj\Debug\net9.0\ExerciceBoucle1.dll
+C:\Users\yoann\Desktop\DevBTS\CS\Boucles\Exercices\ExerciceBoucle1\obj\Debug\net9.0\refint\ExerciceBoucle1.dll
+C:\Users\yoann\Desktop\DevBTS\CS\Boucles\Exercices\ExerciceBoucle1\obj\Debug\net9.0\ExerciceBoucle1.pdb
+C:\Users\yoann\Desktop\DevBTS\CS\Boucles\Exercices\ExerciceBoucle1\obj\Debug\net9.0\ExerciceBoucle1.genruntimeconfig.cache
+C:\Users\yoann\Desktop\DevBTS\CS\Boucles\Exercices\ExerciceBoucle1\obj\Debug\net9.0\ref\ExerciceBoucle1.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yoann\\Desktop\\DevBTS\\CS\\ExerciceSeul9\\ExerciceSeul9.csproj": {}
+    "C:\\Users\\yoann\\Desktop\\DevBTS\\CS\\ExerciceSeul\\ExerciceSeul9\\ExerciceSeul9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yoann\\Desktop\\DevBTS\\CS\\ExerciceSeul9\\ExerciceSeul9.csproj": {
+    "C:\\Users\\yoann\\Desktop\\DevBTS\\CS\\ExerciceSeul\\ExerciceSeul9\\ExerciceSeul9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yoann\\Desktop\\DevBTS\\CS\\ExerciceSeul9\\ExerciceSeul9.csproj",
+        "projectUniqueName": "C:\\Users\\yoann\\Desktop\\DevBTS\\CS\\ExerciceSeul\\ExerciceSeul9\\ExerciceSeul9.csproj",
         "projectName": "ExerciceSeul9",
-        "projectPath": "C:\\Users\\yoann\\Desktop\\DevBTS\\CS\\ExerciceSeul9\\ExerciceSeul9.csproj",
+        "projectPath": "C:\\Users\\yoann\\Desktop\\DevBTS\\CS\\ExerciceSeul\\ExerciceSeul9\\ExerciceSeul9.csproj",
         "packagesPath": "C:\\Users\\yoann\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yoann\\Desktop\\DevBTS\\CS\\ExerciceSeul9\\obj\\",
+        "outputPath": "C:\\Users\\yoann\\Desktop\\DevBTS\\CS\\ExerciceSeul\\ExerciceSeul9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yoann\\AppData\\Roaming\\NuGet\\NuGet.Config"

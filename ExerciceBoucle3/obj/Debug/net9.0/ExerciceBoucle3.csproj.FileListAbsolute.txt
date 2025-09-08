@@ -1,0 +1,15 @@
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceBoucle3\obj\Debug\net9.0\ExerciceBoucle3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceBoucle3\obj\Debug\net9.0\ExerciceBoucle3.AssemblyInfoInputs.cache
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceBoucle3\obj\Debug\net9.0\ExerciceBoucle3.AssemblyInfo.cs
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceBoucle3\obj\Debug\net9.0\ExerciceBoucle3.csproj.CoreCompileInputs.cache
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceBoucle3\obj\Debug\net9.0\ExerciceBoucle3.sourcelink.json
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceBoucle3\bin\Debug\net9.0\ExerciceBoucle3.exe
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceBoucle3\bin\Debug\net9.0\ExerciceBoucle3.deps.json
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceBoucle3\bin\Debug\net9.0\ExerciceBoucle3.runtimeconfig.json
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceBoucle3\bin\Debug\net9.0\ExerciceBoucle3.dll
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceBoucle3\bin\Debug\net9.0\ExerciceBoucle3.pdb
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceBoucle3\obj\Debug\net9.0\ExerciceBoucle3.dll
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceBoucle3\obj\Debug\net9.0\refint\ExerciceBoucle3.dll
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceBoucle3\obj\Debug\net9.0\ExerciceBoucle3.pdb
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceBoucle3\obj\Debug\net9.0\ExerciceBoucle3.genruntimeconfig.cache
+C:\Users\yoann\Desktop\DevBTS\CS\ExerciceBoucle3\obj\Debug\net9.0\ref\ExerciceBoucle3.dll
