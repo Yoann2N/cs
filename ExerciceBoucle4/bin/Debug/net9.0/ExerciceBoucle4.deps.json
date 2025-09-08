@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ExerciceBoucle4/1.0.0": {
+        "runtime": {
+          "ExerciceBoucle4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExerciceBoucle4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
