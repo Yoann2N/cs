@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\yoann\\Desktop\\DevBTS\\CS\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\yoann\\Desktop\\DevBTS\\CS\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "c:\\Users\\yoann\\Desktop\\DevBTS\\CS\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\yoann\\Desktop\\DevBTS\\CS\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\yoann\\Desktop\\DevBTS\\CS\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\yoann\\Desktop\\DevBTS\\CS\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "c:\\Users\\yoann\\Desktop\\DevBTS\\CS\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\yoann\\Desktop\\DevBTS\\CS\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\yoann\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\yoann\\Desktop\\DevBTS\\CS\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\yoann\\Desktop\\DevBTS\\CS\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yoann\\AppData\\Roaming\\NuGet\\NuGet.Config"
