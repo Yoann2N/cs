@@ -1,6 +1,7 @@
 ﻿class Compte
 {
-    public string Solde
+    private decimal _solde = 150;
+    public decimal Solde
     {
         get
         {
