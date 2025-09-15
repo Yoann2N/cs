@@ -17,11 +17,46 @@
             }
             _solde = value;
         }
+
+
     }
 
-
-
     public Titulaire Titulaire { get; set; }
+    public Compte(string Nom, string Prenom, string Adresse, string CodePostal, string Ville, string Tel, string Email, decimal Solde)
+    {
+        _solde = Solde;
+        Titulaire = new Titulaire(Nom, Prenom, Adresse, CodePostal, Ville, Tel, Email);
+    }
+    
+    public void Crediter(decimal montant)
+    {
+        if (montant <= 0)
+        {
+            throw new ArgumentException("Le montant à créditer doit être positif.");
+        }
+        _solde += montant;
+        Console.WriteLine($"Crédit de {montant} €. Nouveau solde: {_solde} €");
+    }
+
+    public void Debiter(decimal montant)
+    {
+        if (montant <= 0)
+        {
+            throw new ArgumentException("Le montant à débiter doit être positif.");
+        }
+        if (montant > _solde)
+        {
+            throw new InvalidOperationException("Fonds insuffisants pour ce débit.");
+        }
+        _solde -= montant;
+        Console.WriteLine($"Débit de {montant} €. Nouveau solde: {_solde} €");
+    }
+
+    
+
+
+
+   
     public void Afficher()
     {
         Console.WriteLine($"--- Informations du Compte ---");
@@ -42,80 +77,7 @@
         }
     }
 }
-class Titulaire
-{
-    private string _id;
-    private string _nom;
-    private string _prenom;
-    private string _adresse;
-    private string _codePostal;
-    private string _ville;
-    private string _tel;
-    private string _email;
-    public string ID
-    {
-        get
-        { return _id; }
-        set
-        { _id = value; }
-    }
 
-    public string Nom
-    {
-        get
-        { return _nom; }
-        set
-        { _nom = value; }
-    }
-    public string Prenom
-    {
-        get
-        { return _prenom; }
-        set
-        { _prenom = value; }
-    }
-    public string Adresse
-    {
-        get
-        { return _adresse; }
-        set
-        { _adresse = value; }
-    }
-    public string CodePostal
-    {
-        get
-        { return _codePostal; }
-        set
-        { _codePostal = value; }
-    }
-    public string Ville
-    {
-        get
-        { return _ville; }
-        set
-        { _ville = value; }
-    }
-    public string Tel
-    {
-        get
-        { return _tel; }
-        set
-        { _tel = value; }
-    }
-    public string Email
-    {
-        get
-        { return _email; }
-        set
-        { _email = value; }
-    }
-
-    public Titulaire(string id, string nom, string prenom, string adresse, string codePostal, string ville, string tel, string email, decimal solde)
-    {
-        _solde = solde;
-        _titulaire = new Titulaire(id, nom, prenom, adresse, codePostal, ville, tel, email);
-    }
-}
 
 
 
