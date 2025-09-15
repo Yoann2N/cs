@@ -1,6 +1,6 @@
 ﻿class Compte
 {
-    private decimal _solde = 150;
+    private decimal _solde = 0;
     public decimal Solde
     {
         get
@@ -17,4 +17,10 @@
             _solde = value;
         }
     }
+        public void Afficher()
+            {
+                Console.WriteLine($"Solde: {_solde}");
+            }
+
 }
+

@@ -1,0 +1,15 @@
+C:\Users\yoann\Desktop\DevBTS\CS\ExercicePOO\obj\Debug\net9.0\ExercicePOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoann\Desktop\DevBTS\CS\ExercicePOO\obj\Debug\net9.0\ExercicePOO.AssemblyInfoInputs.cache
+C:\Users\yoann\Desktop\DevBTS\CS\ExercicePOO\obj\Debug\net9.0\ExercicePOO.AssemblyInfo.cs
+C:\Users\yoann\Desktop\DevBTS\CS\ExercicePOO\obj\Debug\net9.0\ExercicePOO.csproj.CoreCompileInputs.cache
+C:\Users\yoann\Desktop\DevBTS\CS\ExercicePOO\obj\Debug\net9.0\ExercicePOO.sourcelink.json
+C:\Users\yoann\Desktop\DevBTS\CS\ExercicePOO\bin\Debug\net9.0\ExercicePOO.exe
+C:\Users\yoann\Desktop\DevBTS\CS\ExercicePOO\bin\Debug\net9.0\ExercicePOO.deps.json
+C:\Users\yoann\Desktop\DevBTS\CS\ExercicePOO\bin\Debug\net9.0\ExercicePOO.runtimeconfig.json
+C:\Users\yoann\Desktop\DevBTS\CS\ExercicePOO\bin\Debug\net9.0\ExercicePOO.dll
+C:\Users\yoann\Desktop\DevBTS\CS\ExercicePOO\bin\Debug\net9.0\ExercicePOO.pdb
+C:\Users\yoann\Desktop\DevBTS\CS\ExercicePOO\obj\Debug\net9.0\ExercicePOO.dll
+C:\Users\yoann\Desktop\DevBTS\CS\ExercicePOO\obj\Debug\net9.0\refint\ExercicePOO.dll
+C:\Users\yoann\Desktop\DevBTS\CS\ExercicePOO\obj\Debug\net9.0\ExercicePOO.pdb
+C:\Users\yoann\Desktop\DevBTS\CS\ExercicePOO\obj\Debug\net9.0\ExercicePOO.genruntimeconfig.cache
+C:\Users\yoann\Desktop\DevBTS\CS\ExercicePOO\obj\Debug\net9.0\ref\ExercicePOO.dll
