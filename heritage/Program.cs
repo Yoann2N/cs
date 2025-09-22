@@ -2,10 +2,22 @@
 {
     public class Heritage
     {
-        public void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
         }
+
+    }
+}
+
+public class Utilisateur
+{
+    public static void Main(string[] args)
+    {
+        Utilisateur user = new Utilisateur();
+        user.Nom = "Dupont";
+        user.Prenom = "Jean";
+        user.Afficher();
     }
     
 }
