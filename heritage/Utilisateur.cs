@@ -28,15 +28,15 @@ public class Administrateur : Utilisateur
 
 public class Client : Utilisateur
 {
-    public Client()
-    {
-        Adresse = "";
-    }
+    // public Client()
+    // {
+    //     Adresse = "";
+    // }
 
-    public Client(string prenom, string nom, string adresse)
-    {
-        Adresse = "";
-    }
+    // public Client(string prenom, string nom, string adresse)
+    // {
+    //     Adresse = "";
+    // }
 
     public Client(string nom, string prenom, string adresse) : base(nom, prenom)
     {
