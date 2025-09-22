@@ -1,6 +1,6 @@
-﻿string Bonjour(string texte)
+﻿string Bonjour()
 {
-    return $" {texte}";
+    return $" bonjour";
 }
 
-Console.WriteLine(Bonjour("Bonjour"));
+Console.WriteLine(Bonjour());
